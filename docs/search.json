@@ -1,0 +1,41 @@
+{
+  "articles": [
+    {
+      "path": "about.html",
+      "title": "About this blog",
+      "description": "Some additional details about the blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T19:11:16+08:00"
+    },
+    {
+      "path": "blog.html",
+      "title": "My Blog",
+      "author": [],
+      "contents": "\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T19:11:18+08:00"
+    },
+    {
+      "path": "index.html",
+      "title": "Xiang Guo",
+      "author": [],
+      "contents": "\r\n\r\n          \r\n      \r\n      My Blog\r\n      \r\n      \r\n      Home\r\n      About\r\n      Blog\r\n      software\r\n      ☰\r\n      \r\n      \r\n      \r\n        \r\n          \r\n            Xiang Guo\r\n          \r\n          \r\n            \r\n              Raised in New Jersey by two lawyers, I am now an aspiring data artist and competitive rock climber. I moved to Seattle to fly floatplanes, but I got caught up in the startup world. Send me a WhatsApp message if you have good turnip prices.\r\n            \r\n            \r\n              Raised in New Jersey by two lawyers, I am now an aspiring data artist and competitive rock climber. I moved to Seattle to fly floatplanes, but I got caught up in the startup world. Send me a WhatsApp message if you have good turnip prices.\r\n            \r\n          \r\n\r\n          \r\n            \r\n              \r\n                  \r\n                    \r\n                      LinkedIn\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Twitter\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      GitHub\r\n                    \r\n                  \r\n                \r\n                                \r\n                  \r\n                    \r\n                      Email\r\n                    \r\n                  \r\n                \r\n                              \r\n          \r\n\r\n          \r\n            \r\n              \r\n                                \r\n                  \r\n                    LinkedIn\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Twitter\r\n                  \r\n                \r\n                                \r\n                  \r\n                    GitHub\r\n                  \r\n                \r\n                                \r\n                  \r\n                    Email\r\n                  \r\n                \r\n                              \r\n            \r\n          \r\n        \r\n      \r\n    \r\n\r\n    \r\n    \r\n    ",
+      "last_modified": "2022-02-05T19:11:18+08:00"
+    },
+    {
+      "path": "software.html",
+      "title": "Untitled",
+      "description": "A new article created using the Distill format.\n",
+      "author": [
+        {
+          "name": "Nora Jones",
+          "url": "https://example.com/norajones"
+        }
+      ],
+      "date": "`r Sys.Date()`",
+      "contents": "\r\nDistill is a publication format for scientific and technical writing, native to the web.\r\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\r\n\r\n\r\n\r\n",
+      "last_modified": "2022-02-05T19:11:19+08:00"
+    }
+  ],
+  "collections": ["posts/posts.json"]
+}
